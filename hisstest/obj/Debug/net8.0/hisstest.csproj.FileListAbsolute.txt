@@ -1,0 +1,14 @@
+C:\Users\kevin.torneus\code\hisstest\hisstest\bin\Debug\net8.0\hisstest.exe
+C:\Users\kevin.torneus\code\hisstest\hisstest\bin\Debug\net8.0\hisstest.deps.json
+C:\Users\kevin.torneus\code\hisstest\hisstest\bin\Debug\net8.0\hisstest.runtimeconfig.json
+C:\Users\kevin.torneus\code\hisstest\hisstest\bin\Debug\net8.0\hisstest.dll
+C:\Users\kevin.torneus\code\hisstest\hisstest\bin\Debug\net8.0\hisstest.pdb
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.AssemblyInfoInputs.cache
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.AssemblyInfo.cs
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.csproj.CoreCompileInputs.cache
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.dll
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\refint\hisstest.dll
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.pdb
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\hisstest.genruntimeconfig.cache
+C:\Users\kevin.torneus\code\hisstest\hisstest\obj\Debug\net8.0\ref\hisstest.dll
